@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function() {
         clearInterval(mover);
         console.log('moves finished!');
       }
-    }, 500);
+    }, 250);
   }
 
   function makeMove(){
